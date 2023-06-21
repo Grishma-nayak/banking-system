@@ -12,7 +12,7 @@ error_reporting(0);
 <link href="css\home_page.css" rel="stylesheet" media="all">
 </head>
 <div class="header-desktop">
-	<h1 class="title-text">Bank</h1>
+	<h1 class="title-text">TSF Bank</h1>
 </div>
 <body style="background-image:url(img2.jpg)">
 <div class="topnav">

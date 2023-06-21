@@ -39,7 +39,11 @@ INSERT INTO `Users` (`account_no`, `name`, `email_id`, `balance` ) VALUES
 (67893, 'Julia Dipak' ,'lmnk@gmail.com',12000),
 (41265, 'Veronica Kenneth' ,'gfhij@gmail.com',35000),
 (56892, 'Fátima Mithra' ,'hjkl@gmail.com', 62000),
-(24896, 'Kayla Casey' ,'tyuio@gmail.com', 32000);
+(21247, 'Ann Patrice' ,'asdf@gmail.com', 10000),
+(934567, 'Ann Patrice' ,'asdf@gmail.com', 10000),
+(27545, 'Ann Patrice' ,'asdf@gmail.com', 10000),
+(46767, 'Ann Patrice' ,'asdf@gmail.com', 10000),
+(83428, 'Kayla Casey' ,'tyuio@gmail.com', 32000);
 
 ALTER TABLE `Users`
   ADD PRIMARY KEY (`account_no`);
