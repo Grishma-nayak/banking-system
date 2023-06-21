@@ -34,12 +34,12 @@ CREATE TABLE `Users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 INSERT INTO `Users` (`account_no`, `name`, `email_id`, `balance` ) VALUES
-(67981, 'Kiara R' , 'qwerty@gmail.com' ,45000),
-(24567, 'Nithya Hedge' ,'asdf@gmail.com', 12000),
-(67893, 'Ayushi Gadkari' ,'lmnk@gmail.com',12000),
-(41265, 'Prashant Kant' ,'gfhij@gmail.com',12000),
-(56892, 'Sandeep singh' ,'hjkl@gmail.com', 12000),
-(24896, 'Krishna Sharma' ,'tyuio@gmail.com', 12000);
+(67981, 'Rivqah Norm' , 'qwerty@gmail.com' ,45000),
+(24567, 'Ann Patrice' ,'asdf@gmail.com', 10000),
+(67893, 'Julia Dipak' ,'lmnk@gmail.com',12000),
+(41265, 'Veronica Kenneth' ,'gfhij@gmail.com',35000),
+(56892, 'Fátima Mithra' ,'hjkl@gmail.com', 62000),
+(24896, 'Kayla Casey' ,'tyuio@gmail.com', 32000);
 
 ALTER TABLE `Users`
   ADD PRIMARY KEY (`account_no`);
